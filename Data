@@ -1,0 +1,9 @@
+Data:
+
+In this section, I will dicuss the data that will be needed to solved the problem of helping immigrant to find the first place to land.
+Locational data from foursquare is needed, as well as a list of major cities of Canada. additionally, the city that the immigrant is leaving
+is also needed in order to find the most similar to match. additional data such as country that they are coming from is also helpful to find
+the most culture fited city.
+
+The city of immigrants' home country will be used to compare with the major cities of Canada, to find the most similar city by machining learning.
+(such as clustering) The foursquare database is needed to provide information of the cities that we need to compare.
